@@ -1,7 +1,5 @@
 # Prompt Playground
 
-<div align="center">
-
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -10,15 +8,20 @@
 
 **Prompt Playground** 是一个用于开发、调试和自动优化 LLM 提示词（Prompt）的项目。它集成了 Prompt 编写、变量管理、自动化测试评估以及 AI 驱动的 Prompt 优化功能。
 
-[功能特性](#-功能特性) • [快速开始](#-快速开始) • [项目截图](#-项目截图) • [贡献](#-贡献)
+![Demo Screenshot](pics/111.png)
 
-</div>
+
+#阿里云ESA Pages #阿里云云工开物
+
+本项目是**阿里云 ESA (Edge Security Acceleration) 边缘计算创新大赛**的创意参赛作品。
+
+借助 **阿里云 ESA** 强大的边缘计算能力，我们将这个富交互的静态网站分发到全球节点，确保用户在世界任何角落都能体验到闪电般的加载速度。
+
+
 
 ---
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weiuou/prompt-playground&type=date&legend=top-left)](https://www.star-history.com/#weiuou/prompt-playground&type=date&legend=top-left)
 
 ## ✨ 功能特性
 
@@ -102,3 +105,9 @@ prompt-playground/
 ## 许可证
 
 [MIT License](LICENSE)
+
+
+## 声明
+“本项目由阿里云ESA提供加速、计算和保护”
+![Aliyun ESA Pages](pics/aliyunesapages.png)
+
