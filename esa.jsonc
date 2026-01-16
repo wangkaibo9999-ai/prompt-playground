@@ -1,9 +1,9 @@
 {
     "build": {
-        "command": "npm run build"
+        "command": "cd app && npm run build"
     },
     "assets": {
-        "directory": "dist"
+        "directory": "app/dist"
     },
     "routes": [
         {
