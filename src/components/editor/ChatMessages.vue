@@ -209,7 +209,7 @@ onBeforeUnmount(() => {
             <img
               :src="att.content"
               :alt="att.name"
-              @click="openImagePreview(getImages(msg).map((a: any) => a.content), idx)"
+              @click="openImagePreview(getImages(msg).map((a: any) => a.content), Number(idx))"
               style="cursor: pointer;"
             />
           </div>

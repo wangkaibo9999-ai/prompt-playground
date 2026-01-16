@@ -8,6 +8,7 @@
     "@types/diff": "^7.0.2"
   },
   "devDependencies": {
+    "@types/node": "^25.0.9",
     "@vicons/ionicons5": "^0.13.0",
     "@vitejs/plugin-vue": "^6.0.3",
     "@vue/tsconfig": "^0.8.1",
