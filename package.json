@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "cd app && npm run build",
-    "dev": "cd app && npm run dev"
+    "build": "npm run build",
+    "dev": "npm run dev"
   },
   "dependencies": {
     "@types/diff": "^7.0.2",
